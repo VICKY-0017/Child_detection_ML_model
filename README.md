@@ -1,4 +1,4 @@
-# Child Detection ML Model 🎯
+# Child Detection ML Model 
 
 A machine learning model implemented in Python (Jupyter Notebook) to detect children in images. This project can be extended to real-time safety systems, smart surveillance, or content moderation tools.
 
